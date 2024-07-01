@@ -1,0 +1,6 @@
+    ---------CRUD----------
+    C=>INSERT INTO
+    R=>SELECT * FROM students
+    new mysqli('host','user','password','database_name')
+    U=>
+    D=>
